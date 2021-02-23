@@ -1,0 +1,307 @@
+{
+    "dogs":
+    [
+        {
+            "Altered": "Yes",
+            "Breed": "Retriever, Labrador/Mixed Breed (Medium)",
+            "Color": "Black/None",
+            "CoverPhoto": "https://www.shelterluv.com/sites/default/files/animal_pics/12799/2021/01/14/11/20210114113553.png",
+            "CurrentWeightPounds": "45",
+            "ID": "2200",
+            "Name": "Raven",
+            "Sex": "Female",
+            "Size": "Medium (20-59)",
+            "Status": "Available",
+            "Age": "a year",
+            "Attributes":
+            [
+                "Best fit for an active lifestyle",
+                "Resource guarding from humans"
+            ]
+        },
+        {
+            "Altered": "Yes",
+            "Breed": "Terrier, American Pit Bull/Mixed Breed (Medium)",
+            "Color": "Tan/Black",
+            "CoverPhoto": "https://www.shelterluv.com/sites/default/files/animal_pics/12799/2020/11/02/07/20201102074734.png",
+            "CurrentWeightPounds": "54",
+            "ID": "2913",
+            "Name": "Kennedy",
+            "Sex": "Female",
+            "Size": "Medium (20-59)",
+            "Status": "Available",
+            "Age": "a year",
+            "Attributes":
+            [
+                "Best fit for experienced pet parent",
+                "Best fit for outside of the city",
+                "Home without small animals preferred",
+                "Reactive on leash"
+            ]
+        },
+        {
+            "Altered": "Yes",
+            "Breed": "Chihuahua, Short Coat/Mix",
+            "Color": "Fawn/Blond",
+            "CoverPhoto": "https://www.shelterluv.com/sites/default/files/animal_pics/12799/2021/01/18/09/20210118090452.png",
+            "CurrentWeightPounds": "14",
+            "ID": "3050",
+            "Name": "Whitney",
+            "Sex": "Female",
+            "Size": "Small (1-19)",
+            "Status": "Available",
+            "Age": "5 years",
+            "Attributes":
+            [
+                "Adult-only home preferred",
+                "Best fit for outside of the city"
+            ]
+        },
+        {
+            "Altered": "Yes",
+            "Breed": "Boxer/Mix",
+            "Color": "Brown/White",
+            "CoverPhoto": "https://www.shelterluv.com/sites/default/files/animal_pics/12799/2021/01/17/16/20210117160814.png",
+            "CurrentWeightPounds": "55",
+            "ID": "3068",
+            "Name": "Goofy",
+            "Sex": "Male",
+            "Size": "Medium (20-59)",
+            "Status": "Available",
+            "Age": "3 years",
+            "Attributes":
+            [
+                "Adult-only home preferred",
+                "Home without small animals preferred"
+            ]
+        },
+        {
+            "Altered": "Yes",
+            "Breed": "Shepherd/Hound",
+            "Color": "Black/Brown",
+            "CoverPhoto": "https://www.shelterluv.com/sites/default/files/animal_pics/12799/2021/02/08/14/20210208142844.png",
+            "CurrentWeightPounds": "53",
+            "ID": "3110",
+            "Name": "Raymond",
+            "Sex": "Male",
+            "Size": "Medium (20-59)",
+            "Status": "Available",
+            "Age": "a year",
+            "Attributes":
+            [
+                "Resource guarding from humans"
+            ]
+        },
+        {
+            "Altered": "Yes",
+            "Breed": "Retriever, Labrador/Mixed Breed (Large)",
+            "Color": "Black",
+            "CoverPhoto": "https://www.shelterluv.com/sites/default/files/animal_pics/12799/2021/02/09/17/20210209170228.png",
+            "CurrentWeightPounds": "73",
+            "ID": "3124",
+            "Name": "Star",
+            "Sex": "Female",
+            "Size": "Large (60-99)",
+            "Status": "Available",
+            "Age": "a year",
+            "Attributes":
+            [
+                "Home without small animals preferred"
+            ]
+        },
+        {
+            "Altered": "No",
+            "Breed": "Terrier, Pit Bull/Mixed Breed (Large)",
+            "Color": "Brindle/White",
+            "CoverPhoto": "https://www.shelterluv.com/sites/default/files/animal_pics/12799/2021/02/08/13/20210208135838.png",
+            "CurrentWeightPounds": "72",
+            "ID": "3135",
+            "Name": "Charlie",
+            "Sex": "Male",
+            "Size": "Large (60-99)",
+            "Status": "Waitlist Full / Pending Adoption",
+            "Age": "2 years",
+            "Attributes": []
+        },
+        {
+            "Altered": "No",
+            "Breed": "Pug/Chihuahua",
+            "Color": "Brown",
+            "CoverPhoto": "https://www.shelterluv.com/sites/default/files/animal_pics/12799/2021/02/09/06/20210209064634.png",
+            "CurrentWeightPounds": "12",
+            "ID": "3142",
+            "Name": "Cinnamon",
+            "Sex": "Female",
+            "Size": "Small (1-19)",
+            "Status": "Waitlist Full / Pending Adoption",
+            "Age": "6 months",
+            "Attributes": []
+        },
+        {
+            "Altered": "Yes",
+            "Breed": "Chihuahua/Shih Tzu",
+            "Color": "Cream/Grey",
+            "CoverPhoto": "https://www.shelterluv.com/sites/default/files/animal_pics/12799/2021/02/06/15/20210206151823_0.png",
+            "CurrentWeightPounds": "18",
+            "ID": "3151",
+            "Name": "Rascal (bonded with Harley)",
+            "Sex": "Male",
+            "Size": "Small (1-19)",
+            "Status": "Available",
+            "Age": "3 years",
+            "Attributes":
+            [
+                "Adult-only home preferred",
+                "Bonded"
+            ]
+        },
+        {
+            "Altered": "Yes",
+            "Breed": "Chihuahua/Shih Tzu",
+            "Color": "Cream/Grey",
+            "CoverPhoto": "https://www.shelterluv.com/sites/default/files/animal_pics/12799/2021/02/06/15/20210206151915.png",
+            "CurrentWeightPounds": "14",
+             "ID": "3152",
+            "Name": "Harley (bonded with Rascal)",
+            "Sex": "Male",
+            "Size": "Small (1-19)",
+            "Status": "Available",
+            "Age": "2 years",
+            "Attributes":
+            [
+                "Adult-only home preferred",
+                "Bonded"
+            ]
+        },
+        {
+            "Altered": "Yes",
+            "Breed": "Chihuahua/Dachshund",
+            "Color": "Tan",
+            "CoverPhoto": "https://www.shelterluv.com/sites/default/files/animal_pics/12799/2021/02/08/17/20210208174330.png",
+            "CurrentWeightPounds": "19",
+            "ID": "3158",
+            "Name": "Zack (bonded with Cody)",
+            "Sex": "Male",
+            "Size": "Small (1-19)",
+            "Status": "Available",
+            "Age": "8 years",
+            "Attributes":
+            [
+                "Bonded",
+                "Known medical issue"
+            ]
+        },
+        {
+            "Altered": "Yes",
+            "Breed": "Chihuahua/Dachshund",
+            "Color": "Tan",
+            "CoverPhoto": "https://www.shelterluv.com/sites/default/files/animal_pics/12799/2021/02/08/17/20210208174117.png",
+            "CurrentWeightPounds": "17",
+            "ID": "3161",
+            "Name": "Cody (bonded with Zack)",
+            "Sex": "Male",
+            "Size": "Small (1-19)",
+            "Status": "Available",
+            "Age": "8 years",
+            "Attributes":
+            [
+                "Bonded"
+            ]
+        },
+        {
+            "Altered": "Yes",
+            "Breed": "Retriever/Shepherd",
+            "Color": "Tan/White",
+            "CoverPhoto": "https://www.shelterluv.com/sites/default/files/animal_pics/12799/2021/02/08/12/20210208121925.png",
+            "CurrentWeightPounds": "7",
+            "ID": "3164",
+            "Name": "Jamie",
+            "Sex": "Male",
+            "Size": "Small (1-19)",
+            "Status": "Waitlist Full / Pending Adoption",
+            "Age": "3 months",
+            "Attributes": []
+        },
+        {
+            "Altered": "No",
+            "Breed": "Shepherd/Mixed Breed (Medium)",
+            "Color": "Black/None",
+            "CoverPhoto": "https://www.shelterluv.com/sites/default/files/animal_pics/12799/2021/02/15/10/20210215101613.png",
+            "CurrentWeightPounds": "7",
+            "ID": "3166",
+            "Name": "Sunflower",
+            "Sex": "Female",
+            "Size": "Small (1-19)",
+            "Status": "Waitlist Full / Pending Adoption",
+            "Age": "2 months",
+            "Attributes": []
+        },
+        {
+            "Altered": "Yes",
+            "Breed": "Terrier, American Pit Bull/Mixed Breed (Large)",
+            "Color": "Black/White",
+            "CoverPhoto": "https://www.shelterluv.com/sites/default/files/animal_pics/12799/2021/02/15/07/20210215072732.png",
+            "CurrentWeightPounds": "51",
+            "ID": "3175",
+            "Name": "Troy",
+            "Sex": "Male",
+            "Size": "Large (60-99)",
+            "Status": "Available",
+            "Age": "6 months",
+            "Attributes": []
+        },
+        {
+            "Altered": "Yes",
+            "Breed": "Cattle Dog, Australian (Blue Heeler)/Pointer, German Shorthaired",
+            "Color": "Black/White",
+            "CoverPhoto": "https://www.shelterluv.com/sites/default/files/animal_pics/12799/2021/02/18/10/20210218100624_0.png",
+            "CurrentWeightPounds": "60",
+            "ID": "3178",
+            "Name": "Cobain",
+            "Sex": "Male",
+            "Size": "Large (60-99)",
+            "Status": "Waitlist Full / Pending Adoption",
+            "Age": "a year",
+            "Attributes":
+            [
+                "Best fit for an active lifestyle",
+                "Home without small animals preferred"
+            ]
+        },
+        {
+            "Altered": "Yes",
+            "Breed": "Terrier/Mixed Breed (Medium)",
+            "Color": "Black",
+            "CoverPhoto": "https://www.shelterluv.com/sites/default/files/animal_pics/12799/2021/02/18/09/20210218094502.png",
+            "CurrentWeightPounds": "30",
+            "ID": "3180",
+            "Name": "Rita",
+            "Sex": "Female",
+            "Size": "Medium (20-59)",
+            "Status": "Available",
+            "Age": "3 years",
+            "Attributes":
+            [
+                "Best fit for outside of the city"
+            ]
+        },
+        {
+            "Altered": "Yes",
+            "Breed": "Terrier/Retriever, Labrador",
+            "Color": "Black/Brindle",
+            "CoverPhoto": "https://www.shelterluv.com/sites/default/files/animal_pics/12799/2021/02/12/13/20210212133401.png",
+            "CurrentWeightPounds": "35",
+            "ID": "3183",
+            "Name": "Roxi",
+            "Sex": "Female",
+            "Size": "Medium (20-59)",
+            "Status": "Available",
+            "Age": "a year",
+            "Attributes":
+            [
+                "Adult-only home preferred",
+                "Best fit for an active lifestyle"
+            ]
+        }
+    ]
+}
